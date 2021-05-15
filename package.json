@@ -38,7 +38,7 @@
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^1.19.1",
     "sharp-cli": "^1.13.1",
-    "webpack-bundle-analyzer": "^3.6.1"
+    "webpack-bundle-analyzer": "3.9.0"
   },
   "dependencies": {
     "@loadable/component": "^5.12.0",
